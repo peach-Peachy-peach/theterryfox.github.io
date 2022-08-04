@@ -1,0 +1,221 @@
+#p1 {
+
+color: #601700;
+
+font-size: 50px;
+
+padding-left: 1100px;
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+#line1 {
+
+color: #A76D60;
+
+height: 15px;
+
+}
+
+#p2 {
+
+padding-left: 200px;
+
+font-size: 30px;
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+
+#image1 {
+
+padding-left: 670px;
+
+padding-right: 290px;
+}
+
+#p3 {
+
+color: #601700;
+
+font-size: 45px;
+
+padding-left: 1150px;
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+#line2 {
+
+color: #A76D60;
+
+height: 15px;
+
+}
+
+#p4 {
+
+font-size: 30px;
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+#image2 {
+
+padding-left: 700px;
+
+}
+
+
+#DONATENOW {
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+
+font-size: 30px;
+
+padding-left: 150px;
+}
+
+
+#DONATENOW2 {
+
+padding-left:1275px;
+font-size: 30px;
+color: #A76D60;
+font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+#donate {
+
+  padding-left: 1250px;
+  padding-right: 1250px;
+  font-size: 30px;
+  color: #A76D60;
+}
+
+
+
+#creator {
+
+  color: #601700;
+
+  font-size: 45px;
+
+  padding-left: 1000px;
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+
+}
+
+
+#creator2 {
+
+font-size: 30px;
+padding-left: 25px;
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+
+
+#community {
+
+  color: #601700;
+
+  font-size: 45px;
+
+  padding-left: 1100px;
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+
+}
+
+#community2 {
+
+font-size: 30px;
+padding-left: 700px;
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+#community3 {
+
+font-size: 30px;
+padding-left: 1050px;
+font-family: 'Cormorant SC', serif;
+}
+
+#community4 {
+
+font-size: 30px;
+padding-left: 650px;
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+#image3 {
+
+padding-left: 700px;
+
+padding-right: 230px;
+}
+
+#image4 {
+
+padding-left: 700px;
+
+padding-right: 230px;
+}
+
+#music {
+
+font-family: 'Cormorant SC', serif;
+
+font-size: 25px;
+
+color: #A76D60;
+
+border-radius: 25px;
+
+
+}
+
+#stopmusic {
+
+font-family: 'Cormorant SC', serif;
+
+font-size: 25px;
+
+color: #A76D60;
+
+border-radius: 25px;
+}
+
+.music {
+
+border: 1px solid black;
+margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 2427px;
+  margin-left: 15px;
+}
+
+.picture
+{
+  animation-name: example;
+  animation-duration: 4s;
+  position: relative;
+   animation-iteration-count: infinite;
+}
+
+@keyframes example {
+  0%   {left:0px; top:0px;}
+  50%  {left:850px; top:0px;}
+  100%   {left:0px; top:0px;}
+}
+
+#terry {
+padding-left: 450px;
+
+
+}
